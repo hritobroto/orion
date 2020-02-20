@@ -8,7 +8,7 @@ The webpage streams the video from a webcam or external camera and detects the p
 * flask
 
 ## Installing the above packages using 'pip' :
-* open your terminal and run the following commands
+open your terminal and run the following commands,
 * pip install opencv-python
 * pip install numpy
 * pip install imutils
