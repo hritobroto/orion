@@ -8,16 +8,16 @@ The webpage streams the video from a webcam or external camera and detects the p
 * flask
 
 ## General instalation notice
-* 'open your terminal and run the following commands
-*' pip install opencv-python'
-* 'pip install numpy'
-* 'pip install imutils'
-* 'pip install Flask'
+* open your terminal and run the following commands
+* pip install opencv-python
+* pip install numpy
+* pip install imutils
+* pip install Flask
 
 ## To run this on your computer
 * download the folder in your pc
 * open the terminal and chnage the path to the path where this folder is stored 
-* for example cd D:\Ball track
+* for example "cd D:\Ball track"
 * enter the command 'python main.py' in your terminal
 * copy the link generated and paste it in a browser to open your localhost for the video stream
 
